@@ -71,7 +71,7 @@ experiences:
           - Frontend Architect: Take the high-level topics like UI strategy, UI integration, UI test automation improvement.
           - UX Advocate: Designing draft mockup, guiding team colleagues on UX topics.
 projects:
-    title: Project: Subscription Billing
+    title: Project - Subscription Billing
     intro: >
       SAP Subscription Billing is a public cloud solution that supports innovative, 
       subscription-based business models. It enables flexible definition of product 
