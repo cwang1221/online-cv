@@ -48,7 +48,7 @@ career-profile:
     summary: |
       I’ve worked in SAP as a Frontend Developer for 5 years. 
       Besides daily development I also take the role of Frontend Architect 
-      for the whole product. Which requests me to take highlevel topics like 
+      for the whole product. Which requests me to take high-level topics like 
       UI strategy, UI integration, UI test automation improvement and so on. 
       I’m also the UX Advocate in my team, to guide my colleagues on UX related topics.
 
@@ -68,7 +68,7 @@ experiences:
       details: |
         Working in S/4HANA Subscription Billing team with following roles:
           - Frontend Developer: Developing applications with SAPUI5 (UI framework based on Javascript).
-          - Frontend Architect: Take the high-level topics like UI strategy, UI integration, UI test automation improvement.
+          - Frontend Architect: Taking the high-level topics like UI strategy, UI integration, UI test automation improvement.
           - UX Advocate: Designing draft mockup, guiding team colleagues on UX topics.
 projects:
     title: Project - Subscription Billing
@@ -92,8 +92,5 @@ skills:
 
       - name: Node.js
         level: 70%
-
-      - name: Vue.js
-        level: 60%
 
 footer: >
