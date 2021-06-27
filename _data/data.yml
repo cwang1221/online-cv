@@ -46,11 +46,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I’ve worked in SAP as a Frontend Developer for 5 years. 
-      Besides daily development I also take the role of Frontend Architect 
-      for the whole product. Which requests me to take highlevel topics like 
-      UI strategy, UI integration, UI test automation improvement and so on. 
-      I’m also the UX Advocate in my team, to guide my colleagues on UX related topics.
+      I've been working in SAP as a Frontend Developer for 5 years. 
+      Besides daily development, I also take the role of Frontend Architect 
+      for the whole product. This requests me to take high-level topics like 
+      UI strategy, UI integration, UI test automation improvement and etc. 
+      I'm also the UX Advocate in my team to guide my colleagues on UX related topics.
 
 education:
     - degree: MSc in Information Technology
@@ -62,20 +62,11 @@ education:
       time: 2008 - 2012
 
 experiences:
-    - role: Frontend Developer & Frontend Architect & UX advocate
+    - role: SAP S/4HANA Subscription Billing - Frontend Developer
       time: 2016 - Present
-      company: SAP, Chengdu
+      company: SAP, Chengdu, China
       details: |
-        Working in S/4HANA Subscription Billing team with following roles:
-          - Frontend Developer: Developing applications with SAPUI5 (UI framework based on Javascript).
-          - Frontend Architect: Take the high-level topics like UI strategy, UI integration, UI test automation improvement.
-          - UX Advocate: Designing draft mockup, guiding team colleagues on UX topics.
-projects:
-    title: Project - Subscription Billing
-    intro: >
-      SAP Subscription Billing is a public cloud solution that supports innovative, 
-      subscription-based business models. It enables flexible definition of product 
-      prices and automates processes such as subscription generation, rating, and preparation of billing data. 
+        Led the 
 
 skills:
     title: Skills &amp; Proficiency
@@ -89,6 +80,9 @@ skills:
 
       - name: React.js
         level: 70%
+
+      - name: SAPUI5
+        level: 90%
 
       - name: Node.js
         level: 70%
