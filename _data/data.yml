@@ -46,11 +46,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I've been working in SAP as a Frontend Developer for 5 years. 
-      Besides daily development, I also take the role of Frontend Architect 
+      I've been working in SAP as a **Frontend Developer** for 5 years. 
+      Besides daily development, I also take the role of **Frontend Architect** 
       for the whole product. This requests me to take high-level topics like 
       UI strategy, UI integration, UI test automation improvement and etc. 
-      I'm also the UX Advocate in my team to guide my colleagues on UX related topics.
+      I'm also the **UX Advocate** in my team to guide my colleagues on UX related topics.
 
 education:
     - degree: MSc in Information Technology
@@ -66,17 +66,17 @@ experiences:
       time: 2016 - Present
       company: SAP, Chengdu, China
       details: |
-        - (**Team level**) Led the UI development of 5 applications (Business Configuration, Customer, Product, Side Navigation and Allowance Template),
+        - **[Team level]** Led the UI development of 5 applications (Business Configuration, Customer, Product, Side Navigation and Allowance Template),
         including draft mockup design and implementation. These 5 applications have the best performance and the fewest bug in the whole product.
-        - (Product level) Led the migration from classic Launchpad to Side Navigation, to fulfill the UI Consistency Guideline of C/4HANA. The task was 
+        - **[Product level]** Led the migration from classic Launchpad to Side Navigation, to fulfill the UI Consistency Guideline of C/4HANA. The task was 
         complex and urgent, but I completed it in time with some additional nice features, such as new home page and back navigation support.
-        - (Product level) Led the UI Integration between Subscription Billing and S/4HANA Core. In this task I collaborated closely with experts 
+        - **[Product level]** Led the UI Integration between Subscription Billing and S/4HANA Core. In this task I collaborated closely with experts 
         outside our product, to achieve the integration of two totally different infrastructures.
-        - (Product level) Led the UI quality enhancement, including UI test automation and coding convention. The results are:
+        - **[Product level]** Led the UI quality enhancement, including UI test automation and coding convention. The results are:
           - All teams migrated to better test automation frameworks.
           - All teams followed the guideline to organise the automaion test cases. 
-          - All teams learnt from our practice to design the coding convention based on ESLint. Feedbacks are positive, like
-          more stable test automation, less bugs and better code readability.
+          - All teams learnt from our practice to design the coding convention based on ESLint.
+        Feedbacks are positive, like more stable test automation, less bugs and better code readability.
         
 
 skills:
