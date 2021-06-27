@@ -66,19 +66,23 @@ experiences:
       time: 2016 - Present
       company: SAP, Chengdu, China
       details: |
-        - **[Team level]** Led the UI development of 5 applications (Business Configuration, Customer, Product, Side Navigation and Allowance Template),
+        - **[Team Level]** Led the UI development of 5 applications (Business Configuration, Customer, Product, Side Navigation and Allowance Template),
         including draft mockup design and implementation. These 5 applications have the best performance and the fewest bug in the whole product.
-        - **[Product level]** Led the migration from classic Launchpad to Side Navigation, to fulfill the UI Consistency Guideline of C/4HANA. The task was 
+        - **[Product Level]** Led the migration from classic Launchpad to Side Navigation, to fulfill the UI Consistency Guideline of C/4HANA. The task was 
         complex and urgent, but I completed it in time with some additional nice features, such as new home page and back navigation support.
         - **[Product level]** Led the UI Integration between Subscription Billing and S/4HANA Core. In this task I collaborated closely with experts 
         outside our product, to achieve the integration of two totally different infrastructures.
-        - **[Product level]** Led the UI quality enhancement, including UI test automation and coding convention. The results are:
-          - All teams migrated to better test automation frameworks.
-          - All teams followed the guideline to organise the automaion test cases. 
-          - All teams learnt from our practice to design the coding convention based on ESLint.
-          
-        Feedbacks are positive, like more stable test automation, less bugs and better code readability.
-        
+        - **[Product Level]** Led the UI quality enhancement, including UI test automation and coding convention. The results are:
+          - All teams migrated to better test automation frameworks. Feedback: test automation is faster and more stable.
+          - All teams followed the guideline to organise the automaion test cases. Feedback: less bugs.
+          - All teams learnt from our practice to design the coding convention based on ESLint. Feedback: code is more readable.
+        - **[Product Level]** Led the migration from Side Navigation to CDM Launchpad. This makes our launchpad more consistent to the SAP Central Fiori Launchpad 
+        and brings some powerful functionalities such as personalized appearance, dynamic tiles and etc.
+        - **[Proudct Level]** Led the research of mashup service, which is a BFF service to assemble data for UIs. Benefits of this service involves:
+          - Enhance the UI performance.
+          - Help UI to get rid of complex sequential operation and error handling.
+        - **[Team Level]** Act as UX Advocate in my team. General tasks includes draft mockup design. Review mockup with product UX colleagues. Guide teammates 
+        on UX related topics. 
 
 skills:
     title: Skills &amp; Proficiency
