@@ -49,8 +49,8 @@ career-profile:
       I've been working in SAP as a **Frontend Developer** for 5 years. 
       Besides daily development, I also work in the role of **Frontend Architect** 
       for our product - S/4HANA Subscription Billing. This allows me to influence high-level topics like 
-      UI strategy, UI integration, UI test automation improvement, and etc. 
-      I'm also the **UX Advocate** in my team to guide my colleagues on UX related topics.
+      UI strategy, UI integration, UI test automation improvement, etc. 
+      I'm also the **UX Advocate** in my team to guide my colleagues on UX-related topics.
 
 education:
     - degree: MSc in Information Technology
@@ -66,7 +66,7 @@ experiences:
       time: 2016 - Present
       company: SAP, Chengdu, China
       details: |
-        - **[Team Level]** Led the UI development of 5 applications (Business Configuration, Customer, Product, Side Navigation and Allowance Template). 
+        - **[Team Level]** Led the UI development of 5 applications (Business Configuration, Customer, Product, Side Navigation, and Allowance Template). 
         These applications have the best performance and the fewest bugs compared to other applications in our product.
         - **[Product Level]** Led the migration from classic Launchpad to Side Navigation, to fulfill the UI Consistency Guideline of C/4HANA. The task was 
         complex and urgent, but I still managed to complete it in time with some additional nice features, such as a new home page and back navigation support.
@@ -74,15 +74,15 @@ experiences:
         outside of our product to integrate two completely different infrastructures.
         - **[Product Level]** Led the UI quality enhancement project, including UI test automation and coding convention. The results were:
           - All teams migrated to better test automation frameworks. Achievement: test automation is faster and more stable.
-          - All teams followed the guideline to organize the automation test cases. Achievement: less bugs.
+          - All teams followed the guideline to organize the automation test cases. Achievement: fewer bugs.
           - All teams learned from my team's practice to establish the coding convention based on ESLint. Achievement: code is more maintainable.
         - **[Product Level]** Led the migration from Side Navigation to CDM Launchpad. This made our launchpad consistent with the SAP Central Fiori Launchpad 
-        and brought some powerful functionalities, such as personalized appearance, dynamic tiles, and etc.
+        and brought some powerful functionalities, such as personalized appearance, dynamic tiles, etc.
         - **[Prouduct Level]** Led the research of mashup service, which is a BFF service to assemble data for UIs. Benefits of this service involve:
           - Enhance the UI performance.
           - Help UI to get rid of complex sequential requests and error handling.
         - **[Team Level]** Acted as UX Advocate in my team. General tasks include draft mockup design, review mockup with product UX colleagues, and guide teammates 
-        on UX related topics. 
+        on UX-related topics. 
 
 skills:
     title: Skills &amp; Proficiency
