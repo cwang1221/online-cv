@@ -54,11 +54,11 @@ career-profile:
 
 education:
     - degree: MSc in Information Technology
-      university: Technical University of Braunschweig (Technische Universität Braunschweig)
+      university: Technical University of Braunschweig (Technische Universität Braunschweig) - Germany
       time: 2012 - 2016
 
     - degree: BSc in Telecommunication Engineering
-      university: Xidian University
+      university: Xidian University - China
       time: 2008 - 2012
 
 experiences:
@@ -89,18 +89,18 @@ skills:
 
     toolset:
       - name: Javascript
-        level: 90%
+        level: 85%
 
       - name: SAPUI5
-        level: 90%
+        level: 85%
 
       - name: React.js
-        level: 70%
+        level: 85%
 
       - name: HTML/CSS
         level: 70%
 
       - name: Node.js
-        level: 70%
+        level: 60%
 
 footer: >
