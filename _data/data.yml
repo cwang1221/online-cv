@@ -78,7 +78,7 @@ experiences:
           - All teams learned from my team's practice to establish the coding convention based on ESLint. Achievement: code is more maintainable.
         - **[Product Level]** Led the migration from Side Navigation to CDM Launchpad. This made our launchpad consistent with the SAP Central Fiori Launchpad 
         and brought some powerful functionalities, such as personalized appearance, dynamic tiles, etc.
-        - **[Prouduct Level]** Led the research of mashup service, which is a BFF service to assemble data for UIs. Benefits of this service involve:
+        - **[Product Level]** Led the research of mashup service, which is a BFF service to assemble data for UIs. Benefits of this service involve:
           - Enhance the UI performance.
           - Help UI to get rid of complex sequential requests and error handling.
         - **[Team Level]** Acted as UX Advocate in my team. General tasks include draft mockup design, review mockup with product UX colleagues, and guide teammates 
@@ -88,7 +88,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Javascript
+      - name: JavaScript
         level: 85%
 
       - name: SAPUI5
